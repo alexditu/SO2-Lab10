@@ -1,0 +1,1 @@
+cmd_/home/student/so2/lab10-tasks/5-udp-sock/udp_sock.ko := ld -r -m elf_i386 -T /home/student/so2/linux-3.13/scripts/module-common.lds --build-id  -o /home/student/so2/lab10-tasks/5-udp-sock/udp_sock.ko /home/student/so2/lab10-tasks/5-udp-sock/udp_sock.o /home/student/so2/lab10-tasks/5-udp-sock/udp_sock.mod.o
